@@ -1,0 +1,8 @@
+
+@media (max-width: 768px) {
+    #middle{
+        grid-template-rows: auto auto auto;
+        grid-template-columns: 20%;
+        grid-row-gap: 10px;
+    }    
+  }
